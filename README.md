@@ -1,24 +1,15 @@
-# ykonetest
+# this project is developed in vue2 framework and javascript is used
 
-## Project setup
-```
-npm install
-```
+1) To run this project in the local, Node should be installed
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+2) open this project in any of the editor, better to use VSCODE
 
-### Compiles and minifies for production
-```
-npm run build
-```
+3) use command "npm i" to install node modules
 
-### Lints and fixes files
-```
-npm run lint
-```
+4) to run the project use command "npm run serve"
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+5) then in browser of the link "http://localhost:8080" or "http://localhost:8080/profile"
+
+6) If the port number 8080 is already in use in the PC check in the terminal section for the port number
+
+
